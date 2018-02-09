@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset='utf-8' />
+    <title>Locate the user</title>
+    <meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+    <link href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.css' rel='stylesheet' />
+    <link href="https://maxcdn.bootstrapcdn.com/bootswatch/4.0.0-beta.3/materia/bootstrap.min.css" rel="stylesheet" integrity="sha384-9+9yAZ8WTqE5Elo0puxoZtIpLRu+wf9gLMnZsiBuCThtWoy+J2LUu/PIuzzKzhhP" crossorigin="anonymous">
+    <style>
+        body { margin:0; padding:0; }
+        #map { position:absolute; top:0; bottom:0; width:100%; }
+        .modal-stuff {
+          margin: 0 auto;
+        }
+        .infoToggle {
+          background:rgba(0,0,0,0);
+          position:absolute;
+          top:10px;left:10px;
+          z-index:1;
+          border-radius:3px;
+          max-width:60px;
+        }
+    </style>
+</head>
+<body>
+<nav class='infoToggle'>
+  <button type="button" class="btn" data-toggle="modal" data-target="#myModal">
+    <span class="glyphicon glyphicon-menu-hamburger" aria-hidden="true">?</span>
+  </button>
+</nav>
+
+<div id='map'></div>
+
+<div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+      </div>
+      <div class="modal-body modal-stuff">
+        <h1>Am I currently in CBP jurisdiction?</h2>
+        <div class='payoff'>
+          <button type="button" class="btn btn-lg btn-primary" onclick="jurisCheck()">Find my location</button>
+        </div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-sm btn-secondary" data-dismiss="modal">View the map</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.44.0/mapbox-gl.js'></script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script>
+  $(window).on('load',function(){
+    $('#myModal').modal('show');
+  });
+</script>
+<script src='migra.js'></script>
+</body>
+</html>
