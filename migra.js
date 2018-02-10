@@ -8,16 +8,8 @@ var map = new mapboxgl.Map({
     maxZoom: 9
 });
 
-// Add geolocate control to the map.
-/*map.addControl(new mapboxgl.GeolocateControl({
-    positionOptions: {
-        enableHighAccuracy: true
-    },
-    trackUserLocation: true
-}));
-*/
-
 function jurisCheck() {
+  $('#find').empty().append("Locating <i class='fa fa-circle-o-notch fa-spin'></i>")
   // if no geo in browser, use btv center
   if (!navigator.geolocation){
     // do something with a default position
@@ -35,13 +27,44 @@ function jurisCheck() {
       //console.log(feature)
       if (feature[0].properties['ABBREV'] === 'U.S.A.') {
         // alter the answer text
-        $('.payoff').empty().append('<h1>YES.</h1>')
+        $('.payoff').empty().append("<h1 class='display-1 text-center'>YES.</h1>")
         // reset map, with user location marker
       //} else if (some stuff about distance) {
-        //$('.payoff').empty().append('<h1>MAYBE.</h1>')
+        //$('.payoff').empty().append("<h1 class='display-2 text-center'>MAYBE.</h1>")
       } else {
-        $('.payoff').empty().append('<h1>NO.</h1>')
+        $('.payoff').empty().append("<h1 class='display-1 text-center'>NO.</h1>")
       }
+      
+      map.loadImage('ux-current-location.png', function(error, image) {
+        if (error) throw error;
+        map.addImage('user', image);
+        map.addLayer({
+          "id": "points",
+          "type": "symbol",
+          "source": {
+            "type": "geojson",
+            "data": {
+              "type": "FeatureCollection",
+              "features": [{
+                "type": "Feature",
+                "geometry": {
+                  "type": "Point",
+                  "coordinates": [lon, lat]
+                }
+              }]
+            }
+          },
+          "layout": {
+            "icon-image": "user",
+            "icon-size": 0.25
+          }
+        });
+      });
+      map.flyTo({
+        center: [lon, lat],
+        zoom: 6,
+        speed: 0.7
+      });
     },function error() {
       // do something with a default position
       console.log('no geo available')
