@@ -32,7 +32,7 @@ function jurisCheck() {
       //} else if (some stuff about distance) {
         //$('.payoff').empty().append("<h1 class='display-2 text-center'>MAYBE.</h1>")
       } else {
-        $('.payoff').empty().append("<h1 class='display-1 text-center'>NO.</h1>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center'>NO.</h1><p>This means that you are <i>not</i> within 100 miles of the border or coast, and are <i>not</i> subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). <a href='https://www.aclu.org/other/constitution-100-mile-border-zone' target='_blank'>Read more.</a>")
       }
       
       map.loadImage('ux-current-location.png', function(error, image) {
