@@ -5,7 +5,7 @@ var map = new mapboxgl.Map({
     style: 'mapbox://styles/landplanner/cjdf3ju46000y2srxyq585lhc',
     center: [-96, 37.8], // starting position
     zoom: 3, // starting zoom
-    maxZoom: 9
+    maxZoom: 10
 });
 
 function jurisCheck() {
@@ -27,7 +27,7 @@ function jurisCheck() {
       //console.log(feature)
       if (feature[0].properties['ABBREV'] === 'U.S.A.') {
         // alter the answer text
-        $('.payoff').empty().append("<h1 class='display-1 text-center'>YES.</h1>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center'>YES.</h1><p>This means that you are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). <a href='https://www.aclu.org/other/constitution-100-mile-border-zone' target='_blank'>Read more.</a>")
         // reset map, with user location marker
       //} else if (some stuff about distance) {
         //$('.payoff').empty().append("<h1 class='display-2 text-center'>MAYBE.</h1>")
