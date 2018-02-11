@@ -28,12 +28,12 @@ function jurisCheck() {
       
       if (feature.length > 0 && feature[0].properties['ABBREV'] === 'U.S.A.') {
         // alter the answer text
-        $('.payoff').empty().append("<h1 class='display-1 text-center'>YES.</h1><p>This means that you are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). <a href='https://www.aclu.org/other/constitution-100-mile-border-zone' target='_blank'>Read more.</a>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><div class='alert alert-warning' role='alert'>This is advisory information; it is not legally-binding.</div>")
         // reset map, with user location marker
       //} else if (some stuff about distance) {
         //$('.payoff').empty().append("<h1 class='display-2 text-center'>MAYBE.</h1>")
       } else {
-        $('.payoff').empty().append("<h1 class='display-1 text-center'>NO.</h1><p>This means that you are <i>not</i> within 100 miles of the border or coast, and are <i>not</i> subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). <a href='https://www.aclu.org/other/constitution-100-mile-border-zone' target='_blank'>Read more.</a>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>NO.</h1><p>You are <i>not</i> within 100 miles of the border or coast, and are <i>not</i> subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). </p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
       }
       
       map.loadImage('ux-current-location.png', function(error, image) {
