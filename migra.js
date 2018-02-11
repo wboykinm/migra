@@ -24,8 +24,9 @@ function jurisCheck() {
       var point = map.project([lon, lat])
       //console.log(point)
       var feature = map.queryRenderedFeatures(point, { layers: ['operational-buffer-3-4atp68'] });
-      //console.log(feature)
-      if (feature[0].properties['ABBREV'] === 'U.S.A.') {
+      console.log(feature)
+      
+      if (feature.length > 0 && feature[0].properties['ABBREV'] === 'U.S.A.') {
         // alter the answer text
         $('.payoff').empty().append("<h1 class='display-1 text-center'>YES.</h1><p>This means that you are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). <a href='https://www.aclu.org/other/constitution-100-mile-border-zone' target='_blank'>Read more.</a>")
         // reset map, with user location marker
