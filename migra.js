@@ -63,7 +63,7 @@ function jurisCheck() {
       });
       map.flyTo({
         center: [lon, lat],
-        zoom: 6,
+        zoom: 6.5,
         speed: 0.7
       });
     },function error() {
