@@ -28,7 +28,7 @@ function jurisCheck() {
       
       if (feature.length > 0 && feature[0].properties['ABBREV'] === 'U.S.A.') {
         // alter the answer text
-        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><div class='alert alert-warning' role='alert'>This is advisory information; it is not legally-binding.</div>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
         // reset map, with user location marker
       //} else if (some stuff about distance) {
         //$('.payoff').empty().append("<h1 class='display-2 text-center'>MAYBE.</h1>")
