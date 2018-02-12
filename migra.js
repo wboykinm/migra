@@ -28,13 +28,13 @@ function jurisCheck() {
       
       // if there's no user overlap with either the zone or the uncertainty region, NO
       if (fuzz.length == 0 && zone.length == 0) {
-        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>NO.</h1><p>You are <i>not</i> within 100 miles of the border or coast, and are <i>not</i> subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). </p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>NO.</h1><p>You are <i>not</i> within 100 miles of the border or coast, and are <i>not</i> subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). </p><p class='text-warning'>This map is advisory; it is an estimate of where CBP might plausibly claim jurisdiction <a href='https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-9505.html' target='_blank'> based on Federal statute</a>. It is not legally-binding.</p>")
       // if there's user overlap with the zone but not the uncertainty region, YES
       } else if (zone.length > 0 && fuzz.length == 0) {
-        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><p class='text-warning'>This map is advisory; it is an estimate of where CBP might plausibly claim jurisdiction <a href='https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-9505.html' target='_blank'> based on Federal statute</a>. It is not legally-binding.</p>")
       // if there's user overlap with the uncertainty region, MAYBE
       } else if (fuzz.length > 0 && precision_m > 10) {
-        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>MAYBE.</h1><p>You are near edge of the jurisdiction zone of the U.S. Agency of Customs and Border Protection (CBP). Your geolocation is not precise enough to say for certain.</p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>MAYBE.</h1><p>You are near edge of the jurisdiction zone of the U.S. Agency of Customs and Border Protection (CBP). Your geolocation is not precise enough to say for certain.</p><p class='text-warning'>This map is advisory; it is an estimate of where CBP might plausibly claim jurisdiction <a href='https://www.uscis.gov/ilink/docView/SLB/HTML/SLB/0-0-0-1/0-0-0-29/0-0-0-9505.html' target='_blank'> based on Federal statute</a>. It is not legally-binding..</p>")
       } else {
         $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>MAYBE.</h1><p>Your location cannot be found.</p>")
       }
