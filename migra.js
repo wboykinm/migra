@@ -22,18 +22,21 @@ function jurisCheck() {
       var lon = position.coords.longitude
       var precision_m = position.coords.accuracy
       var point = map.project([lon, lat])
-      //console.log(point)
-      var feature = map.queryRenderedFeatures(point, { layers: ['operational-buffer-3-4atp68'] });
-      console.log(feature)
+      console.log('Error = ' + precision_m + 'm')
+      var zone = map.queryRenderedFeatures(point, { layers: ['operational-buffer-3-4atp68'] });
+      var fuzz = map.queryRenderedFeatures(point, { layers: ['uncertainty-buffer'] });
       
-      if (feature.length > 0 && feature[0].properties['ABBREV'] === 'U.S.A.') {
-        // alter the answer text
-        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
-        // reset map, with user location marker
-      //} else if (some stuff about distance) {
-        //$('.payoff').empty().append("<h1 class='display-2 text-center'>MAYBE.</h1>")
-      } else {
+      // if there's no user overlap with either the zone or the uncertainty region, NO
+      if (fuzz.length == 0 && zone.length == 0) {
         $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>NO.</h1><p>You are <i>not</i> within 100 miles of the border or coast, and are <i>not</i> subject to the authority of the U.S. Agency of Customs and Border Protection (CBP). </p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
+      // if there's user overlap with the zone but not the uncertainty region, YES
+      } else if (zone.length > 0 && fuzz.length == 0) {
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>YES.</h1><p>You are within 100 miles of the border or coast, and are subject to the authority of the U.S. Agency of Customs and Border Protection (CBP).</p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
+      // if there's user overlap with the uncertainty region, MAYBE
+      } else if (fuzz.length > 0 && precision_m > 10) {
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>MAYBE.</h1><p>You are near edge of the jurisdiction zone of the U.S. Agency of Customs and Border Protection (CBP). Your geolocation is not precise enough to say for certain.</p><p class='text-warning'>This is advisory information; it is not legally-binding.</p>")
+      } else {
+        $('.payoff').empty().append("<h1 class='display-1 text-center text-primary'>MAYBE.</h1><p>Your location cannot be found.</p>")
       }
       
       map.loadImage('ux-current-location.png', function(error, image) {
