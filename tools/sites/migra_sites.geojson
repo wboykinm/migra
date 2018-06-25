@@ -6,6 +6,7 @@
       "properties": {
         "name": "Etowah County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "827 Forrest Avenue",
         "city": "Gadsden",
         "state": "AL",
@@ -27,6 +28,7 @@
       "properties": {
         "name": "Central Arizona Correctional Center",
         "description": "",
+        "agency": "ICE",
         "address": "1155 North Pinal Parkway",
         "city": "Florence",
         "state": "AZ",
@@ -48,6 +50,7 @@
       "properties": {
         "name": "Eloy Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1705 E Hanna Rd",
         "city": "Eloy ",
         "state": "AZ",
@@ -69,6 +72,7 @@
       "properties": {
         "name": "Florence Correctional Center",
         "description": "",
+        "agency": "ICE",
         "address": "1100 Bowling Road",
         "city": "Florence",
         "state": "AZ",
@@ -90,6 +94,7 @@
       "properties": {
         "name": "Florence SPC",
         "description": "",
+        "agency": "ICE",
         "address": "3250 N. Pinal Parkway",
         "city": "Florence",
         "state": "AZ",
@@ -111,6 +116,7 @@
       "properties": {
         "name": "Adelanto ICE Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "Adelanto East 10400 Rancho Road | Adelanto West 10250 Rancho Road",
         "city": "Adelanto",
         "state": "CA",
@@ -132,6 +138,7 @@
       "properties": {
         "name": "Contra Costa West County Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "5555 Giant Highway",
         "city": "Richmond",
         "state": "CA",
@@ -153,6 +160,7 @@
       "properties": {
         "name": "Santa Ana City Jail",
         "description": "",
+        "agency": "ICE",
         "address": "62 Civic Center Plaza",
         "city": "Santa Ana",
         "state": "CA",
@@ -174,6 +182,7 @@
       "properties": {
         "name": "Yuba County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "215 5th St.",
         "city": "Marysville",
         "state": "CA",
@@ -195,6 +204,7 @@
       "properties": {
         "name": "Denver Contract Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "3130 North Oakland Street",
         "city": "Aurora",
         "state": "CO",
@@ -216,6 +226,7 @@
       "properties": {
         "name": "Baker County Facility",
         "description": "",
+        "agency": "ICE",
         "address": "1 Sheriff&#039;s Office Drive",
         "city": "MacClenny",
         "state": "FL",
@@ -237,6 +248,7 @@
       "properties": {
         "name": "Broward Transitional Center",
         "description": "",
+        "agency": "ICE",
         "address": "3900 N. Powerline Road",
         "city": "Pompano Beach",
         "state": "FL",
@@ -258,6 +270,7 @@
       "properties": {
         "name": "Glades County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1297 East SR 78",
         "city": "Moore Haven",
         "state": "FL",
@@ -279,6 +292,7 @@
       "properties": {
         "name": "Krome Service Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "18201 SW 12th Street",
         "city": "Miami",
         "state": "FL",
@@ -300,6 +314,7 @@
       "properties": {
         "name": "Wakulla County Facility",
         "description": "",
+        "agency": "ICE",
         "address": "15 Oak Street",
         "city": "Crawfordville",
         "state": "FL",
@@ -321,6 +336,7 @@
       "properties": {
         "name": "Atlanta City Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "254 Peachtree Street",
         "city": "Southwest Atlanta",
         "state": "GA",
@@ -342,6 +358,7 @@
       "properties": {
         "name": "Irwin County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "132 Cotton Drive",
         "city": "Ocilla",
         "state": "GA",
@@ -363,6 +380,7 @@
       "properties": {
         "name": "Stewart Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "146 CCA Road",
         "city": "Lumpkin",
         "state": "GA",
@@ -384,6 +402,7 @@
       "properties": {
         "name": "Jefferson County Justice Center",
         "description": "",
+        "agency": "ICE",
         "address": "911 Casey Ave.",
         "city": "Mount Vernon",
         "state": "IL",
@@ -405,6 +424,7 @@
       "properties": {
         "name": "McHenry County Adult Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "2200 N. Seminary Ave.",
         "city": "Woodstock",
         "state": "IL",
@@ -426,6 +446,7 @@
       "properties": {
         "name": "Pulaski County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1026 Shawnee College Road",
         "city": "Ullin",
         "state": "IL",
@@ -447,6 +468,7 @@
       "properties": {
         "name": "Clay County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "611 East Jackson Street",
         "city": "Brazil",
         "state": "IN",
@@ -468,6 +490,7 @@
       "properties": {
         "name": "Hardin County Correctional Center",
         "description": "",
+        "agency": "ICE",
         "address": "1116 14th Avenue",
         "city": "Eldora",
         "state": "IA",
@@ -489,6 +512,7 @@
       "properties": {
         "name": "Boone County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "3020 Conrad Lane",
         "city": "Burlington",
         "state": "KY",
@@ -510,6 +534,7 @@
       "properties": {
         "name": "LaSalle ICE Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "830 Pine Hill Road",
         "city": "Jena",
         "state": "LA",
@@ -531,6 +556,7 @@
       "properties": {
         "name": "Worcester County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "5022 Joyner Road",
         "city": "Snow Hill",
         "state": "MD",
@@ -552,6 +578,7 @@
       "properties": {
         "name": "Bristol County House of Corrections",
         "description": "",
+        "agency": "ICE",
         "address": "400 Faunce Corner Road",
         "city": "North Dartmouth",
         "state": "MA",
@@ -573,6 +600,7 @@
       "properties": {
         "name": "Plymouth County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "26 Long Pond Road",
         "city": "Plymouth",
         "state": "MA",
@@ -594,6 +622,7 @@
       "properties": {
         "name": "Suffolk County House of Corrections (South Bay)",
         "description": "",
+        "agency": "ICE",
         "address": "20 Bradston Street",
         "city": "Boston",
         "state": "MA",
@@ -615,6 +644,7 @@
       "properties": {
         "name": "Calhoun County Correctional Center",
         "description": "",
+        "agency": "ICE",
         "address": "185 E. Michigan Street",
         "city": "Battle Creek",
         "state": "MI",
@@ -636,6 +666,7 @@
       "properties": {
         "name": "Monroe County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "7000 East Dunbar Road",
         "city": "Monroe",
         "state": "MI",
@@ -657,6 +688,7 @@
       "properties": {
         "name": "Freeborn County Jail Services",
         "description": "",
+        "agency": "ICE",
         "address": "411 S. Broadway Ave.",
         "city": "Albert Lea",
         "state": "MN",
@@ -678,6 +710,7 @@
       "properties": {
         "name": "Ramsey County Adult Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "425 Grove Street",
         "city": "St. Paul",
         "state": "MN",
@@ -699,6 +732,7 @@
       "properties": {
         "name": "Sherburne County Jail Services",
         "description": "",
+        "agency": "ICE",
         "address": "13880 Business Center Drive NW",
         "city": "Elk River",
         "state": "MN",
@@ -720,6 +754,7 @@
       "properties": {
         "name": "Montgomery County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "211 East Main",
         "city": "Montgomery City",
         "state": "MO",
@@ -741,6 +776,7 @@
       "properties": {
         "name": "Douglas County Department of Corrections",
         "description": "",
+        "agency": "ICE",
         "address": "710 South 17th Street",
         "city": "Omaha",
         "state": "NE",
@@ -762,6 +798,7 @@
       "properties": {
         "name": "Hall County Department of Corrections",
         "description": "",
+        "agency": "ICE",
         "address": "110 Public Safety Drive",
         "city": "Grand Island",
         "state": "NE",
@@ -783,6 +820,7 @@
       "properties": {
         "name": "Bergen County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "160 South River Street",
         "city": "Hackensack",
         "state": "NJ",
@@ -804,6 +842,7 @@
       "properties": {
         "name": "Delaney Hall Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "Delaney Hall Detention Facility (DHDF), 451 Doremus Avenue",
         "city": "Newark",
         "state": "NJ",
@@ -825,6 +864,7 @@
       "properties": {
         "name": "Elizabeth Contract Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "625 Evans Street",
         "city": "Elizabeth",
         "state": "NJ",
@@ -846,6 +886,7 @@
       "properties": {
         "name": "Essex County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "354 Doremus Avenue",
         "city": "Newark",
         "state": "NJ",
@@ -867,6 +908,7 @@
       "properties": {
         "name": "Hudson County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "30-35 Hackensack Avenue",
         "city": "Kearny",
         "state": "NJ",
@@ -888,6 +930,7 @@
       "properties": {
         "name": "Monmouth County Correctional Institution",
         "description": "",
+        "agency": "ICE",
         "address": "1 Waterworks Road",
         "city": "Freehold",
         "state": "NJ",
@@ -909,6 +952,7 @@
       "properties": {
         "name": "Otero County Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "26 McGregor Range Road",
         "city": "Chaparral",
         "state": "NM",
@@ -930,6 +974,7 @@
       "properties": {
         "name": "Buffalo Federal Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "4250 Federal Drive",
         "city": "Batavia",
         "state": "NY",
@@ -951,6 +996,7 @@
       "properties": {
         "name": "Orange County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "110 Wells Farm Road",
         "city": "Goshen",
         "state": "NY",
@@ -972,6 +1018,7 @@
       "properties": {
         "name": "Bedford Heights City Jail",
         "description": "",
+        "agency": "ICE",
         "address": "5661 Perkins Road",
         "city": "Bedford Heights",
         "state": "OH",
@@ -993,6 +1040,7 @@
       "properties": {
         "name": "Butler County Correctional Complex",
         "description": "",
+        "agency": "ICE",
         "address": "705 Hanover Street",
         "city": "Hamilton",
         "state": "OH",
@@ -1014,6 +1062,7 @@
       "properties": {
         "name": "Morrow County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "101 Home Road",
         "city": "Mt. Gilead",
         "state": "OH",
@@ -1035,6 +1084,7 @@
       "properties": {
         "name": "Seneca County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "3040 South State Route 100",
         "city": "Tiffin",
         "state": "OH",
@@ -1056,6 +1106,7 @@
       "properties": {
         "name": "David L. Moss Criminal Justice Center",
         "description": "",
+        "agency": "ICE",
         "address": "300 N. Denver Ave.",
         "city": "Tulsa",
         "state": "OK",
@@ -1077,6 +1128,7 @@
       "properties": {
         "name": "Clinton County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "58 Pine Mountain Road",
         "city": "McElhattan",
         "state": "PA",
@@ -1098,6 +1150,7 @@
       "properties": {
         "name": "Pike County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "175 Pike County Blvd.",
         "city": "Lords Valley",
         "state": "PA",
@@ -1119,6 +1172,7 @@
       "properties": {
         "name": "York County Prison",
         "description": "",
+        "agency": "ICE",
         "address": "3400 Concord Road",
         "city": "York",
         "state": "PA",
@@ -1140,6 +1194,7 @@
       "properties": {
         "name": "El Paso Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "8915 Montana Ave.",
         "city": "El Paso",
         "state": "TX",
@@ -1161,6 +1216,7 @@
       "properties": {
         "name": "Houston Contract Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "15850 Export Plaza Drive",
         "city": "Houston",
         "state": "TX",
@@ -1182,6 +1238,7 @@
       "properties": {
         "name": "Joe Corley Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "500 Hilbig Rd",
         "city": "Conroe",
         "state": "TX",
@@ -1203,6 +1260,7 @@
       "properties": {
         "name": "Johnson County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1800 Ridgemar Drive",
         "city": "Cleburne",
         "state": "TX",
@@ -1224,6 +1282,7 @@
       "properties": {
         "name": "Karnes County Residential Center",
         "description": "",
+        "agency": "ICE",
         "address": "409 FM 1144",
         "city": "Karnes City",
         "state": "TX",
@@ -1245,6 +1304,7 @@
       "properties": {
         "name": "Laredo Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "4702 East Saunders",
         "city": "Laredo",
         "state": "TX",
@@ -1266,6 +1326,7 @@
       "properties": {
         "name": "IAH Secure Adult Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "3400 FM 350 South",
         "city": "Livingston",
         "state": "TX",
@@ -1287,6 +1348,7 @@
       "properties": {
         "name": "Port Isabel Service Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "27991 Buena Vista Blvd.",
         "city": "Los Fresnos",
         "state": "TX",
@@ -1308,6 +1370,7 @@
       "properties": {
         "name": "Rolling Plains Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "118 County Road 206",
         "city": "Haskell",
         "state": "TX",
@@ -1329,6 +1392,7 @@
       "properties": {
         "name": "South Texas Detention Complex",
         "description": "",
+        "agency": "ICE",
         "address": "566 Veterans Drive",
         "city": "Pearsall",
         "state": "TX",
@@ -1350,6 +1414,7 @@
       "properties": {
         "name": "T. Don Hutto Residential Center",
         "description": "",
+        "agency": "ICE",
         "address": "1001 Welch St.",
         "city": "Taylor",
         "state": "TX",
@@ -1371,6 +1436,7 @@
       "properties": {
         "name": "West Texas Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "401 S. Vaquero Avenue",
         "city": "Sierra Blanca",
         "state": "TX",
@@ -1392,6 +1458,7 @@
       "properties": {
         "name": "Utah County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "3075 North Main",
         "city": "Spanish Fork",
         "state": "UT",
@@ -1413,6 +1480,7 @@
       "properties": {
         "name": "Weber County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "721 W. 12th Street",
         "city": "Ogden",
         "state": "UT",
@@ -1434,6 +1502,7 @@
       "properties": {
         "name": "Farmville Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "508 Waterworks Road",
         "city": "Farmville",
         "state": "VA",
@@ -1455,6 +1524,7 @@
       "properties": {
         "name": "Tacoma Northwest Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1623 E J Street, Suite 2",
         "city": "Tacoma",
         "state": "WA",
@@ -1476,6 +1546,7 @@
       "properties": {
         "name": "Dodge Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "141 N. Main Street",
         "city": "Juneau",
         "state": "WI",
@@ -1497,6 +1568,7 @@
       "properties": {
         "name": "Kenosha County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "4777 88th Avenue",
         "city": "Kenosha",
         "state": "WI",
@@ -1518,6 +1590,7 @@
       "properties": {
         "name": "South Texas Family Residential Center",
         "description": "",
+        "agency": "ICE",
         "address": "300 El Rancho Way",
         "city": "Dilley",
         "state": "TX",
@@ -1539,6 +1612,7 @@
       "properties": {
         "name": "Rio Cosumnes Correctional Center",
         "description": "",
+        "agency": "ICE",
         "address": "12500 Bruceville Road",
         "city": "Elk Grove",
         "state": "CA",
@@ -1560,6 +1634,7 @@
       "properties": {
         "name": "Pine Prairie ICE Processing Center",
         "description": "",
+        "agency": "ICE",
         "address": "1133 Hampton Dupre Road",
         "city": "Pine Prairie",
         "state": "LA",
@@ -1581,6 +1656,7 @@
       "properties": {
         "name": "Mesa Verde ICE Processing Facility",
         "description": "",
+        "agency": "ICE",
         "address": "425 Golden State Avenue",
         "city": "Bakersfield",
         "state": "CA",
@@ -1602,6 +1678,7 @@
       "properties": {
         "name": "Virginia Peninsula Regional Jail",
         "description": "",
+        "agency": "ICE",
         "address": "9320 Merrimac Trail",
         "city": "Williamsburg",
         "state": "VA",
@@ -1623,6 +1700,7 @@
       "properties": {
         "name": "Frederick County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "7300 Marcies Choice Lane",
         "city": "Frederick",
         "state": "MD",
@@ -1644,6 +1722,7 @@
       "properties": {
         "name": "Geauga County Safety Center",
         "description": "",
+        "agency": "ICE",
         "address": "12450 Merritt Road",
         "city": "Chardon",
         "state": "OH",
@@ -1665,6 +1744,7 @@
       "properties": {
         "name": "Howard County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "7301 Waterloo Rd",
         "city": "Jessup",
         "state": "MD",
@@ -1686,6 +1766,7 @@
       "properties": {
         "name": "James A. Musick Facility",
         "description": "",
+        "agency": "ICE",
         "address": "13502 Musick Road",
         "city": "Irvine",
         "state": "CA",
@@ -1707,6 +1788,7 @@
       "properties": {
         "name": "Theo Lacy Facility",
         "description": "",
+        "agency": "ICE",
         "address": "501 The City Drive",
         "city": "South Orange",
         "state": "CA",
@@ -1728,6 +1810,7 @@
       "properties": {
         "name": "Albany County Correctional Facility",
         "description": "",
+        "agency": "ICE",
         "address": "840 Albany Shaker Road",
         "city": "Albany",
         "state": "NY",
@@ -1749,6 +1832,7 @@
       "properties": {
         "name": "Allegany County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "4884 State Route 19",
         "city": "Belmont",
         "state": "NY",
@@ -1770,6 +1854,7 @@
       "properties": {
         "name": "Chautauqua County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "15 E. Chautauqua Street",
         "city": "Mayville",
         "state": "NY",
@@ -1791,6 +1876,7 @@
       "properties": {
         "name": "Clinton County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "25 McCarthy Drive",
         "city": "Plattsburgh",
         "state": "NY",
@@ -1812,6 +1898,7 @@
       "properties": {
         "name": "Berks Family Residential Center",
         "description": "",
+        "agency": "ICE",
         "address": "1040 Berks Road",
         "city": "Leesport",
         "state": "PA",
@@ -1833,6 +1920,7 @@
       "properties": {
         "name": "Carver County Jail Services",
         "description": "",
+        "agency": "ICE",
         "address": "600 East 4th Street",
         "city": "Chaska",
         "state": "MN",
@@ -1854,6 +1942,7 @@
       "properties": {
         "name": "Cass County Jail Services",
         "description": "",
+        "agency": "ICE",
         "address": "336 Main Street",
         "city": "Plattsmouth",
         "state": "NE",
@@ -1875,6 +1964,7 @@
       "properties": {
         "name": "St. Clair County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "1170 Michigan Road",
         "city": "Port Huron",
         "state": "MI",
@@ -1896,6 +1986,7 @@
       "properties": {
         "name": "Teller County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "288 County Road 29",
         "city": "Divide",
         "state": "CO",
@@ -1917,6 +2008,7 @@
       "properties": {
         "name": "El Paso County Criminal Justice Center",
         "description": "",
+        "agency": "ICE",
         "address": "2739 East Las Vegas Street",
         "city": "Colorado Springs",
         "state": "CO",
@@ -1938,6 +2030,7 @@
       "properties": {
         "name": "Torrance County Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "209 County Road A049",
         "city": "Estancia",
         "state": "NM",
@@ -1959,6 +2052,7 @@
       "properties": {
         "name": "Wayne County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "7368 Route 31",
         "city": "Lyons",
         "state": "NY",
@@ -1980,6 +2074,7 @@
       "properties": {
         "name": "Franklin County House of Correction",
         "description": "",
+        "agency": "ICE",
         "address": "160 Elm Street",
         "city": "Greenfield",
         "state": "MA",
@@ -2001,6 +2096,7 @@
       "properties": {
         "name": "Strafford County House of Corrections",
         "description": "",
+        "agency": "ICE",
         "address": "266 County Farm Road",
         "city": "Dover",
         "state": "NH",
@@ -2022,6 +2118,7 @@
       "properties": {
         "name": "Henderson Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "18 S. Water St.",
         "city": "Henderson",
         "state": "NV",
@@ -2043,6 +2140,7 @@
       "properties": {
         "name": "Nevada Southern Detention Center ",
         "description": "",
+        "agency": "ICE",
         "address": "2190 E Mesquite Avenue",
         "city": "Pahrump",
         "state": "NV",
@@ -2064,6 +2162,7 @@
       "properties": {
         "name": "Washoe County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "911 E Parr Blvd",
         "city": "Reno",
         "state": "NV",
@@ -2085,6 +2184,7 @@
       "properties": {
         "name": "Burnet County Jail",
         "description": "",
+        "agency": "ICE",
         "address": "900 County Lane",
         "city": "Burnet",
         "state": "TX",
@@ -2106,6 +2206,7 @@
       "properties": {
         "name": "Brooks County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "901 County Road 201",
         "city": "Falfurrias",
         "state": "TX",
@@ -2127,6 +2228,7 @@
       "properties": {
         "name": "East Hidalgo Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1300 E Hwy 107",
         "city": "La Villa",
         "state": "TX",
@@ -2148,6 +2250,7 @@
       "properties": {
         "name": "Central Texas Detention Facility (GEO)",
         "description": "",
+        "agency": "ICE",
         "address": "218 South Laredo Street",
         "city": "San Antonio",
         "state": "TX",
@@ -2169,6 +2272,7 @@
       "properties": {
         "name": "Jack Harwell Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "3101 E. Marlin Hwy",
         "city": "Waco",
         "state": "TX",
@@ -2190,6 +2294,7 @@
       "properties": {
         "name": "Val Verde County Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "253 FM 2523 Hamilton Lane",
         "city": "Del Rio",
         "state": "TX",
@@ -2211,6 +2316,7 @@
       "properties": {
         "name": "Willacy County Regional Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "1601 Buffalo Drive",
         "city": "Raymondville",
         "state": "TX",
@@ -2232,6 +2338,7 @@
       "properties": {
         "name": "Karnes County Correctional Center",
         "description": "",
+        "agency": "ICE",
         "address": "810 Commerce Street",
         "city": "Karnes City",
         "state": "TX",
@@ -2253,6 +2360,7 @@
       "properties": {
         "name": "Rio Grande Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "1001 San Rio Blvd",
         "city": "Laredo",
         "state": "TX",
@@ -2274,6 +2382,7 @@
       "properties": {
         "name": "Imperial Regional Detention Facility",
         "description": "",
+        "agency": "ICE",
         "address": "1572 Gateway Road",
         "city": "Calexico",
         "state": "CA",
@@ -2295,6 +2404,7 @@
       "properties": {
         "name": "Otay Mesa Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "7488 Calzada de la Fuente",
         "city": "San Diego",
         "state": "CA",
@@ -2316,6 +2426,7 @@
       "properties": {
         "name": "La Salle County Regional Detention Center",
         "description": "",
+        "agency": "ICE",
         "address": "832 E. Texas 44",
         "city": "Encinal",
         "state": "TX",
@@ -2337,6 +2448,7 @@
       "properties": {
         "name": "Prairieland Detention Center (PDC)",
         "description": "",
+        "agency": "ICE",
         "address": "1209 Sunflower Lane",
         "city": "Alvarado",
         "state": "TX",
@@ -2358,6 +2470,7 @@
       "properties": {
         "name": "FSL La Tuna",
         "description": "",
+        "agency": "ICE",
         "address": "SSG Sims Road Building 11636",
         "city": "El Paso",
         "state": "TX",
@@ -2379,6 +2492,7 @@
       "properties": {
         "name": "A New Leaf Dorothy Mitchell Residence",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Mesa",
         "state": "AZ",
@@ -2400,6 +2514,7 @@
       "properties": {
         "name": "A New Leaf Alice Peterson Residence",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Mesa",
         "state": "AZ",
@@ -2421,6 +2536,7 @@
       "properties": {
         "name": "Abbott House",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Irvington",
         "state": "NY",
@@ -2442,6 +2558,7 @@
       "properties": {
         "name": "Abbott House",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Irvington",
         "state": "NY",
@@ -2463,6 +2580,7 @@
       "properties": {
         "name": "BCFS HHS International Children's Services",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Baytown",
         "state": "TX",
@@ -2484,6 +2602,7 @@
       "properties": {
         "name": "BCFS Chavaneaux",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -2505,6 +2624,7 @@
       "properties": {
         "name": "BCFS Fairfield",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fairfield",
         "state": "CA",
@@ -2526,6 +2646,7 @@
       "properties": {
         "name": "BCFS Fairfield",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fairfield",
         "state": "CA",
@@ -2547,6 +2668,7 @@
       "properties": {
         "name": "BCFS International Children's Shelter",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Harlingen",
         "state": "TX",
@@ -2568,6 +2690,7 @@
       "properties": {
         "name": "BCFS HHS International Children's Services Emergency Shelter",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Raymondville",
         "state": "TX",
@@ -2589,6 +2712,7 @@
       "properties": {
         "name": "BCFS San Antonio",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -2610,6 +2734,7 @@
       "properties": {
         "name": "BCFS San Antonio",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -2631,6 +2756,7 @@
       "properties": {
         "name": "BCFS San Antonio",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -2652,6 +2778,7 @@
       "properties": {
         "name": "BCFS HHS International Children's Services Emergency Shelter",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -2673,6 +2800,7 @@
       "properties": {
         "name": "Bethany Christian Services",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Grand Rapids",
         "state": "MI",
@@ -2694,6 +2822,7 @@
       "properties": {
         "name": "Board of Child Care",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Baltimore",
         "state": "MD",
@@ -2715,6 +2844,7 @@
       "properties": {
         "name": "Board of Child Care",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Baltimore",
         "state": "MD",
@@ -2736,6 +2866,7 @@
       "properties": {
         "name": "Bokenkamp (Lutheran Social Services)",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Corpus Christi",
         "state": "TX",
@@ -2757,6 +2888,7 @@
       "properties": {
         "name": "Bokenkamp (Lutheran Social Services)",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Corpus Christi",
         "state": "TX",
@@ -2778,6 +2910,7 @@
       "properties": {
         "name": "Catholic Charities Boystown",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Miami",
         "state": "FL",
@@ -2799,6 +2932,7 @@
       "properties": {
         "name": "Catholic Family Center",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Rochester",
         "state": "NY",
@@ -2820,6 +2954,7 @@
       "properties": {
         "name": "Cayuga Centers",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "New York",
         "state": "NY",
@@ -2841,6 +2976,7 @@
       "properties": {
         "name": "Cayuga Centers",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "New York",
         "state": "NY",
@@ -2862,6 +2998,7 @@
       "properties": {
         "name": "Catholic Charities Fort Worth",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fort Worth",
         "state": "TX",
@@ -2883,6 +3020,7 @@
       "properties": {
         "name": "Catholic Charities Fort Worth",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fort Worth",
         "state": "TX",
@@ -2904,6 +3042,7 @@
       "properties": {
         "name": "Catholic Charities Houston",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -2925,6 +3064,7 @@
       "properties": {
         "name": "Catholic Charities Houston",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -2946,6 +3086,7 @@
       "properties": {
         "name": "CCS Tacoma",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Tacoma ",
         "state": "WA",
@@ -2967,6 +3108,7 @@
       "properties": {
         "name": "Center for Family Services",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Camden",
         "state": "NJ",
@@ -2988,6 +3130,7 @@
       "properties": {
         "name": "Childrens Home of Kingston",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Kingston",
         "state": "NY",
@@ -3009,6 +3152,7 @@
       "properties": {
         "name": "Children's Village",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Dobb's Ferry",
         "state": "NY",
@@ -3030,6 +3174,7 @@
       "properties": {
         "name": "Crittenton",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fullerton",
         "state": "CA",
@@ -3051,6 +3196,7 @@
       "properties": {
         "name": "Crittenton",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fullerton",
         "state": "CA",
@@ -3072,6 +3218,7 @@
       "properties": {
         "name": "David and Margaret",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "La Verne",
         "state": "CA",
@@ -3093,6 +3240,7 @@
       "properties": {
         "name": "David and Margaret",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "La Verne",
         "state": "CA",
@@ -3114,6 +3262,7 @@
       "properties": {
         "name": "Friends of Youth",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Kirkland ",
         "state": "WA",
@@ -3135,6 +3284,7 @@
       "properties": {
         "name": "Friends of Youth",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Kirkland ",
         "state": "WA",
@@ -3156,6 +3306,7 @@
       "properties": {
         "name": "Friends of Youth",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Kirkland ",
         "state": "WA",
@@ -3177,6 +3328,7 @@
       "properties": {
         "name": "Friends of Youth",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Kirkland ",
         "state": "WA",
@@ -3198,6 +3350,7 @@
       "properties": {
         "name": "Heartland Beverly",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Chicago",
         "state": "IL",
@@ -3219,6 +3372,7 @@
       "properties": {
         "name": "Heartland International Childrens Center",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Chicago",
         "state": "IL",
@@ -3240,6 +3394,7 @@
       "properties": {
         "name": "His House",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Miami",
         "state": "FL",
@@ -3261,6 +3416,7 @@
       "properties": {
         "name": "Holy Family Institute",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Pittsburgh",
         "state": "PA",
@@ -3282,6 +3438,7 @@
       "properties": {
         "name": "Holy Family Institute",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Pittsburgh",
         "state": "PA",
@@ -3303,6 +3460,7 @@
       "properties": {
         "name": "Homestead Temporary Shelter for Unaccompanied Children",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Homestead",
         "state": "FL",
@@ -3324,6 +3482,7 @@
       "properties": {
         "name": "Pleasantville Cottage School",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Pleasantville",
         "state": "NY",
@@ -3345,6 +3504,7 @@
       "properties": {
         "name": "Leake and Watts",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Yonkers",
         "state": "NY",
@@ -3366,6 +3526,7 @@
       "properties": {
         "name": "Leake and Watts",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Yonkers",
         "state": "NY",
@@ -3387,6 +3548,7 @@
       "properties": {
         "name": "Leake and Watts",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Yonkers",
         "state": "NY",
@@ -3408,6 +3570,7 @@
       "properties": {
         "name": "Lincoln Hall Boys Haven",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Lincolndale",
         "state": "NY",
@@ -3429,6 +3592,7 @@
       "properties": {
         "name": "Lutheran Services Carolinas",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Columbia",
         "state": "SC",
@@ -3450,6 +3614,7 @@
       "properties": {
         "name": "Lutheran Social Services of the South (New Hope)",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "McAllen",
         "state": "TX",
@@ -3471,6 +3636,7 @@
       "properties": {
         "name": "MercyFirst",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Syosett",
         "state": "NY",
@@ -3492,6 +3658,7 @@
       "properties": {
         "name": "MercyFirst",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Syosett",
         "state": "NY",
@@ -3513,6 +3680,7 @@
       "properties": {
         "name": "Morrison Downtown",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Portland",
         "state": "OR",
@@ -3534,6 +3702,7 @@
       "properties": {
         "name": "Morrison ",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Portland",
         "state": "OR",
@@ -3555,6 +3724,7 @@
       "properties": {
         "name": "Noank",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Ledyard - Mystic - Groton",
         "state": "CT",
@@ -3576,6 +3746,7 @@
       "properties": {
         "name": "Northern Virginia Juvenile Detention Center",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Alexandria",
         "state": "VA",
@@ -3597,6 +3768,7 @@
       "properties": {
         "name": "Selma Carson Home",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fife",
         "state": "WA",
@@ -3618,6 +3790,7 @@
       "properties": {
         "name": "Seton Home",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -3639,6 +3812,7 @@
       "properties": {
         "name": "Shenandoah Valley Juvenile Center",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Staunton",
         "state": "VA",
@@ -3660,6 +3834,7 @@
       "properties": {
         "name": "Shiloh Treatment Center",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Manvel",
         "state": "TX",
@@ -3681,6 +3856,7 @@
       "properties": {
         "name": "Southwest Key Antigua",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Benito",
         "state": "TX",
@@ -3702,6 +3878,7 @@
       "properties": {
         "name": "Southwest Key Canutillo",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Canutillo",
         "state": "TX",
@@ -3723,6 +3900,7 @@
       "properties": {
         "name": "Southwest Key Casa Blanca",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -3744,6 +3922,7 @@
       "properties": {
         "name": "Southwest Key Casa Franklin",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "El Paso",
         "state": "TX",
@@ -3765,6 +3944,7 @@
       "properties": {
         "name": "Southwest Key Casa Houston",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -3786,6 +3966,7 @@
       "properties": {
         "name": "Southwest Key Casa Montezuma",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Channelview",
         "state": "TX",
@@ -3807,6 +3988,7 @@
       "properties": {
         "name": "Southwest Key Casa Padre",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Brownsville",
         "state": "TX",
@@ -3828,6 +4010,7 @@
       "properties": {
         "name": "Southwest Key Casa Phoenix",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Phoenix",
         "state": "AZ",
@@ -3849,6 +4032,7 @@
       "properties": {
         "name": "Southwest Key Casa Quetzal",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -3870,6 +4054,7 @@
       "properties": {
         "name": "Southwest Key Casita Del Valle",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Elizario",
         "state": "TX",
@@ -3891,6 +4076,7 @@
       "properties": {
         "name": "Southwest Key Combes",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Harlingen",
         "state": "TX",
@@ -3912,6 +4098,7 @@
       "properties": {
         "name": "Southwest Key Conroe",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Conroe",
         "state": "TX",
@@ -3933,6 +4120,7 @@
       "properties": {
         "name": "Southwest Key El Presidente",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Brownsville",
         "state": "TX",
@@ -3954,6 +4142,7 @@
       "properties": {
         "name": "Southwest Key Glendale",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Glendale",
         "state": "AZ",
@@ -3975,6 +4164,7 @@
       "properties": {
         "name": "Southwest Key Mesa",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Mesa",
         "state": "AZ",
@@ -3996,6 +4186,7 @@
       "properties": {
         "name": "Southwest Key Nueva Esperanza",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Brownsville",
         "state": "TX",
@@ -4017,6 +4208,7 @@
       "properties": {
         "name": "Southwest Key Pleasant Hill",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Pleasant Hill",
         "state": "CA",
@@ -4038,6 +4230,7 @@
       "properties": {
         "name": "Southwest Key Rio Grande",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Benito",
         "state": "TX",
@@ -4059,6 +4252,7 @@
       "properties": {
         "name": "Southwest Key San Diego",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Diego",
         "state": "CA",
@@ -4080,6 +4274,7 @@
       "properties": {
         "name": "St. Peter St. Joseph Children's Home",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -4101,6 +4296,7 @@
       "properties": {
         "name": "The Villages",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Topeka",
         "state": "KS",
@@ -4122,6 +4318,7 @@
       "properties": {
         "name": "Yolo County Juvenile Detention",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Woodland",
         "state": "CA",
@@ -4143,6 +4340,7 @@
       "properties": {
         "name": "Youth For Tomorrow",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Bristow ",
         "state": "VA",
@@ -4164,6 +4362,7 @@
       "properties": {
         "name": "Youth for Tomorrow LTFC",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Bristow ",
         "state": "VA",
@@ -4185,6 +4384,7 @@
       "properties": {
         "name": "Youthcare",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Seattle",
         "state": "WA",
@@ -4206,6 +4406,7 @@
       "properties": {
         "name": "San Francisco Unaccompanied Children's Shelter",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Des Plaines",
         "state": "IL",
@@ -4227,6 +4428,7 @@
       "properties": {
         "name": "Casa Esperanza Unaccompanied Children's Shelter",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Bartlett",
         "state": "IL",
@@ -4248,6 +4450,7 @@
       "properties": {
         "name": "Galveston Multicultural Institute",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Galveston",
         "state": "TX",
@@ -4269,6 +4472,7 @@
       "properties": {
         "name": "Southwest Key Houston",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -4290,6 +4494,7 @@
       "properties": {
         "name": "Brazoria County Youth Homes",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Oyster Creek",
         "state": "TX",
@@ -4311,6 +4516,7 @@
       "properties": {
         "name": "St. Michaels Home for Children",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -4332,6 +4538,7 @@
       "properties": {
         "name": "St. Michaels Home for Children II",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Houston",
         "state": "TX",
@@ -4353,6 +4560,7 @@
       "properties": {
         "name": "Assessment Center of Tarrant County",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fort Worth",
         "state": "TX",
@@ -4374,6 +4582,7 @@
       "properties": {
         "name": "Southwest Key La Esperanza",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Brownsville",
         "state": "TX",
@@ -4395,6 +4604,7 @@
       "properties": {
         "name": "Baptist Child and Home Ministries",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -4416,6 +4626,7 @@
       "properties": {
         "name": "BCHM Region Children's Assessment Center",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "San Antonio",
         "state": "TX",
@@ -4437,6 +4648,7 @@
       "properties": {
         "name": "Tornillo detention facility",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Fabens",
         "state": "TX",
@@ -4458,6 +4670,7 @@
       "properties": {
         "name": "Southwest Key Tucson",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Tucson",
         "state": "AZ",
@@ -4479,6 +4692,7 @@
       "properties": {
         "name": "Southwest Key Youngtown",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Youngtown",
         "state": "AZ",
@@ -4500,6 +4714,7 @@
       "properties": {
         "name": "Southwest Key Casa San Diego",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "El Cajon",
         "state": "CA",
@@ -4521,6 +4736,7 @@
       "properties": {
         "name": "Southwest Key El Cajon",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "El Cajon",
         "state": "CA",
@@ -4542,6 +4758,7 @@
       "properties": {
         "name": "Southwest Key Lemon Grove",
         "description": "",
+        "agency": "Private",
         "address": "",
         "city": "Lemon Grove",
         "state": "CA",

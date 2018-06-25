@@ -15,6 +15,7 @@ for (let i = 0; i < sites.length; i++) {
     properties: {
       name: sites[i]['DisplayName'] || '',
       description: '',
+      agency: 'Private',
       address: '',
       city: sites[i]['city'] || '',
       state: sites[i]['State'] || '',
