@@ -23,10 +23,24 @@ wget https://gist.githubusercontent.com/wboykinm/aa5b75963ba0c065a079f81e734ebcc
 node private/index.js private.json > private.geojson
 
 #########################################################################
+# Everything from "torn apart":
+# rm -rm torn_apart.csv torn_apart.geojson
+# wget http://xpmethod.plaintext.in/torn-apart/assets/data/iceFacs.csv
+
+#########################################################################
+# ProPublica's set:
+rm -rf pp.geojson propublica.geojson
+wget -c https://projects.propublica.org/graphics/data/migrant-shelters-near-you/places_geo.geojson -O pp.geojson
+
+node propublica/index.js pp.geojson > propublica.geojson
+rm -rf pp.geojson
+
+
+#########################################################################
 #########################################################################
 # Combine the lot
 rm -rf migra_sites.geojson
 npm install -g @mapbox/geojson-merge
 geojson-merge *.geojson > migra_sites.geojson
 
-rm -rf ice.json ice.geojson cbp.json cbp.geojson private.json private.geojson
+rm -rf ice.json ice.geojson cbp.json cbp.geojson private.json private.geojson pp.geojson propublica.geojson

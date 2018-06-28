@@ -11,7 +11,8 @@
         "city": "Gadsden",
         "state": "AL",
         "zip": "35901",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -33,7 +34,8 @@
         "city": "Florence",
         "state": "AZ",
         "zip": "85132",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -55,7 +57,8 @@
         "city": "Eloy ",
         "state": "AZ",
         "zip": "85131",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -77,7 +80,8 @@
         "city": "Florence",
         "state": "AZ",
         "zip": "85132",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -99,7 +103,8 @@
         "city": "Florence",
         "state": "AZ",
         "zip": "85132",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -121,7 +126,8 @@
         "city": "Adelanto",
         "state": "CA",
         "zip": "92301",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -143,7 +149,8 @@
         "city": "Richmond",
         "state": "CA",
         "zip": "94806",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -165,7 +172,8 @@
         "city": "Santa Ana",
         "state": "CA",
         "zip": "92701",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -187,7 +195,8 @@
         "city": "Marysville",
         "state": "CA",
         "zip": "95901",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -209,7 +218,8 @@
         "city": "Aurora",
         "state": "CO",
         "zip": "80010",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -231,7 +241,8 @@
         "city": "MacClenny",
         "state": "FL",
         "zip": "32063",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -253,7 +264,8 @@
         "city": "Pompano Beach",
         "state": "FL",
         "zip": "33073",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -275,7 +287,8 @@
         "city": "Moore Haven",
         "state": "FL",
         "zip": "33471",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -297,7 +310,8 @@
         "city": "Miami",
         "state": "FL",
         "zip": "33194",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -319,7 +333,8 @@
         "city": "Crawfordville",
         "state": "FL",
         "zip": "32327",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -341,7 +356,8 @@
         "city": "Southwest Atlanta",
         "state": "GA",
         "zip": "30303",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -363,7 +379,8 @@
         "city": "Ocilla",
         "state": "GA",
         "zip": "31774",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -385,7 +402,8 @@
         "city": "Lumpkin",
         "state": "GA",
         "zip": "31815",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -407,7 +425,8 @@
         "city": "Mount Vernon",
         "state": "IL",
         "zip": "62864",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -429,7 +448,8 @@
         "city": "Woodstock",
         "state": "IL",
         "zip": "60098",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -451,7 +471,8 @@
         "city": "Ullin",
         "state": "IL",
         "zip": "62992",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -473,7 +494,8 @@
         "city": "Brazil",
         "state": "IN",
         "zip": "47834",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -495,7 +517,8 @@
         "city": "Eldora",
         "state": "IA",
         "zip": "50627",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -517,7 +540,8 @@
         "city": "Burlington",
         "state": "KY",
         "zip": "41005",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -539,7 +563,8 @@
         "city": "Jena",
         "state": "LA",
         "zip": "71342",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -561,7 +586,8 @@
         "city": "Snow Hill",
         "state": "MD",
         "zip": "21863",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -583,7 +609,8 @@
         "city": "North Dartmouth",
         "state": "MA",
         "zip": "02747",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -605,7 +632,8 @@
         "city": "Plymouth",
         "state": "MA",
         "zip": "02360",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -627,7 +655,8 @@
         "city": "Boston",
         "state": "MA",
         "zip": "02118",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -649,7 +678,8 @@
         "city": "Battle Creek",
         "state": "MI",
         "zip": "49014",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -671,7 +701,8 @@
         "city": "Monroe",
         "state": "MI",
         "zip": "48161",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -693,7 +724,8 @@
         "city": "Albert Lea",
         "state": "MN",
         "zip": "56007",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -715,7 +747,8 @@
         "city": "St. Paul",
         "state": "MN",
         "zip": "55101",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -737,7 +770,8 @@
         "city": "Elk River",
         "state": "MN",
         "zip": "55330",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -759,7 +793,8 @@
         "city": "Montgomery City",
         "state": "MO",
         "zip": "63361",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -781,7 +816,8 @@
         "city": "Omaha",
         "state": "NE",
         "zip": "68102",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -803,7 +839,8 @@
         "city": "Grand Island",
         "state": "NE",
         "zip": "68801",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -825,7 +862,8 @@
         "city": "Hackensack",
         "state": "NJ",
         "zip": "Jersey",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -847,7 +885,8 @@
         "city": "Newark",
         "state": "NJ",
         "zip": "07105",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -869,7 +908,8 @@
         "city": "Elizabeth",
         "state": "NJ",
         "zip": "07201",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -891,7 +931,8 @@
         "city": "Newark",
         "state": "NJ",
         "zip": "07105",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -913,7 +954,8 @@
         "city": "Kearny",
         "state": "NJ",
         "zip": "07032",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -935,7 +977,8 @@
         "city": "Freehold",
         "state": "NJ",
         "zip": "07728",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -957,7 +1000,8 @@
         "city": "Chaparral",
         "state": "NM",
         "zip": "88081",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -979,7 +1023,8 @@
         "city": "Batavia",
         "state": "NY",
         "zip": "York",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1001,7 +1046,8 @@
         "city": "Goshen",
         "state": "NY",
         "zip": "10924",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1023,7 +1069,8 @@
         "city": "Bedford Heights",
         "state": "OH",
         "zip": "44146",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1045,7 +1092,8 @@
         "city": "Hamilton",
         "state": "OH",
         "zip": "45011",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1067,7 +1115,8 @@
         "city": "Mt. Gilead",
         "state": "OH",
         "zip": "43338",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1089,7 +1138,8 @@
         "city": "Tiffin",
         "state": "OH",
         "zip": "44883",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1111,7 +1161,8 @@
         "city": "Tulsa",
         "state": "OK",
         "zip": "74103",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1133,7 +1184,8 @@
         "city": "McElhattan",
         "state": "PA",
         "zip": "17748&lt;p&gt;North",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1155,7 +1207,8 @@
         "city": "Lords Valley",
         "state": "PA",
         "zip": "18428",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1177,7 +1230,8 @@
         "city": "York",
         "state": "PA",
         "zip": "17402",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1199,7 +1253,8 @@
         "city": "El Paso",
         "state": "TX",
         "zip": "79925",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1221,7 +1276,8 @@
         "city": "Houston",
         "state": "TX",
         "zip": "77032",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1243,7 +1299,8 @@
         "city": "Conroe",
         "state": "TX",
         "zip": "77301",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1265,7 +1322,8 @@
         "city": "Cleburne",
         "state": "TX",
         "zip": "76031",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1287,7 +1345,8 @@
         "city": "Karnes City",
         "state": "TX",
         "zip": "78118",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1309,7 +1368,8 @@
         "city": "Laredo",
         "state": "TX",
         "zip": "78401",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1331,7 +1391,8 @@
         "city": "Livingston",
         "state": "TX",
         "zip": "77351",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1353,7 +1414,8 @@
         "city": "Los Fresnos",
         "state": "TX",
         "zip": "78566",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1375,7 +1437,8 @@
         "city": "Haskell",
         "state": "TX",
         "zip": "79521",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1397,7 +1460,8 @@
         "city": "Pearsall",
         "state": "TX",
         "zip": "78061",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1419,7 +1483,8 @@
         "city": "Taylor",
         "state": "TX",
         "zip": "76574",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1441,7 +1506,8 @@
         "city": "Sierra Blanca",
         "state": "TX",
         "zip": "79851",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1463,7 +1529,8 @@
         "city": "Spanish Fork",
         "state": "UT",
         "zip": "84660",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1485,7 +1552,8 @@
         "city": "Ogden",
         "state": "UT",
         "zip": "84401",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1507,7 +1575,8 @@
         "city": "Farmville",
         "state": "VA",
         "zip": "23901",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1529,7 +1598,8 @@
         "city": "Tacoma",
         "state": "WA",
         "zip": "98421-1615",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1551,7 +1621,8 @@
         "city": "Juneau",
         "state": "WI",
         "zip": "53039",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1573,7 +1644,8 @@
         "city": "Kenosha",
         "state": "WI",
         "zip": "53144",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1595,7 +1667,8 @@
         "city": "Dilley",
         "state": "TX",
         "zip": "78017",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1617,7 +1690,8 @@
         "city": "Elk Grove",
         "state": "CA",
         "zip": "95757",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1639,7 +1713,8 @@
         "city": "Pine Prairie",
         "state": "LA",
         "zip": "70576",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1661,7 +1736,8 @@
         "city": "Bakersfield",
         "state": "CA",
         "zip": "93301 ",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1683,7 +1759,8 @@
         "city": "Williamsburg",
         "state": "VA",
         "zip": "23185 ",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1705,7 +1782,8 @@
         "city": "Frederick",
         "state": "MD",
         "zip": "21704",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1727,7 +1805,8 @@
         "city": "Chardon",
         "state": "OH",
         "zip": "44024",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1749,7 +1828,8 @@
         "city": "Jessup",
         "state": "MD",
         "zip": "20794",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1771,7 +1851,8 @@
         "city": "Irvine",
         "state": "CA",
         "zip": "92618",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1793,7 +1874,8 @@
         "city": "South Orange",
         "state": "CA",
         "zip": "92868 ",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1815,7 +1897,8 @@
         "city": "Albany",
         "state": "NY",
         "zip": "12211",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1837,7 +1920,8 @@
         "city": "Belmont",
         "state": "NY",
         "zip": "14813",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1859,7 +1943,8 @@
         "city": "Mayville",
         "state": "NY",
         "zip": "14757",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1881,7 +1966,8 @@
         "city": "Plattsburgh",
         "state": "NY",
         "zip": "12901",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1903,7 +1989,8 @@
         "city": "Leesport",
         "state": "PA",
         "zip": "19533",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1925,7 +2012,8 @@
         "city": "Chaska",
         "state": "MN",
         "zip": "55318 ",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1947,7 +2035,8 @@
         "city": "Plattsmouth",
         "state": "NE",
         "zip": "68048",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1969,7 +2058,8 @@
         "city": "Port Huron",
         "state": "MI",
         "zip": "48060",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -1991,7 +2081,8 @@
         "city": "Divide",
         "state": "CO",
         "zip": "80814",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2013,7 +2104,8 @@
         "city": "Colorado Springs",
         "state": "CO",
         "zip": "80906",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2035,7 +2127,8 @@
         "city": "Estancia",
         "state": "NM",
         "zip": "87016",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2057,7 +2150,8 @@
         "city": "Lyons",
         "state": "NY",
         "zip": "14489",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2079,7 +2173,8 @@
         "city": "Greenfield",
         "state": "MA",
         "zip": "01301",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2101,7 +2196,8 @@
         "city": "Dover",
         "state": "NH",
         "zip": "03820",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2123,7 +2219,8 @@
         "city": "Henderson",
         "state": "NV",
         "zip": "89015",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2145,7 +2242,8 @@
         "city": "Pahrump",
         "state": "NV",
         "zip": "89048",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2167,7 +2265,8 @@
         "city": "Reno",
         "state": "NV",
         "zip": "89512",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2189,7 +2288,8 @@
         "city": "Burnet",
         "state": "TX",
         "zip": "78611",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2211,7 +2311,8 @@
         "city": "Falfurrias",
         "state": "TX",
         "zip": "78355 ",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2233,7 +2334,8 @@
         "city": "La Villa",
         "state": "TX",
         "zip": "78562",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2255,7 +2357,8 @@
         "city": "San Antonio",
         "state": "TX",
         "zip": "78207",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2277,7 +2380,8 @@
         "city": "Waco",
         "state": "TX",
         "zip": "76705",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2299,7 +2403,8 @@
         "city": "Del Rio",
         "state": "TX",
         "zip": "78840",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2321,7 +2426,8 @@
         "city": "Raymondville",
         "state": "TX",
         "zip": "78580",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2343,7 +2449,8 @@
         "city": "Karnes City",
         "state": "TX",
         "zip": "78118",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2365,7 +2472,8 @@
         "city": "Laredo",
         "state": "TX",
         "zip": "78046",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2387,7 +2495,8 @@
         "city": "Calexico",
         "state": "CA",
         "zip": "92231",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2409,7 +2518,8 @@
         "city": "San Diego",
         "state": "CA",
         "zip": "92231",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2431,7 +2541,8 @@
         "city": "Encinal",
         "state": "TX",
         "zip": "78019",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2453,7 +2564,8 @@
         "city": "Alvarado",
         "state": "TX",
         "zip": "76009",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2475,7 +2587,8 @@
         "city": "El Paso",
         "state": "TX",
         "zip": "79906",
-        "marker-color": "#324D5C",
+        "source": "ice",
+        "marker-color": "#E37B40",
         "marker-size": "medium",
         "marker-symbol": "i"
       },
@@ -2490,968 +2603,483 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "A New Leaf Dorothy Mitchell Residence",
+        "name": "Southwest Key Program, Inc. Glendale",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "5125 W. Myrtle Avenue",
+        "city": "Glendale ",
+        "state": "Arizona",
+        "zip": "85301",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.169801,
+          33.5417647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "A New Leaf, Inc. Dorothy Mitchell Residence",
+        "description": "",
+        "agency": "A New Leaf",
+        "address": "3505 E. University Drive",
         "city": "Mesa",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Arizona",
+        "zip": "85203",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.794889,
-          33.422351
+          -111.7558068,
+          33.4224691
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "A New Leaf Alice Peterson Residence",
+        "name": "A New Leaf, Inc. Alice Peterson Residence",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "A New Leaf",
+        "address": "901 E. University Drive",
         "city": "Mesa",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Arizona",
+        "zip": "85203",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -111.8315,
-          33.4152
+          -111.811538,
+          33.4221344
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Abbott House",
+        "name": "Southwest Key Program, Inc Las Palmas",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Irvington",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "421 W. Brown Road  ",
+        "city": "Mesa",
+        "state": "Arizona",
+        "zip": "85201",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.856358,
-          41.043093
+          -111.8404839,
+          33.4349629
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Abbott House",
+        "name": "Southwest Key Program, Inc. Casa Kokopelli",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Irvington",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "723 E. 2nd Avenue",
+        "city": "Mesa",
+        "state": "Arizona",
+        "zip": "85204",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.857807,
-          41.043277
+          -111.8155437,
+          33.4108891
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "BCFS HHS International Children's Services",
+        "name": "Unamed facility operated by Southwest Key Program, Inc. ",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Baytown",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "1201 S. 7th Avenue, Suite 120",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85007",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -94.965833,
-          29.743889
+          -112.0812642,
+          33.4360428
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "BCFS Chavaneaux",
+        "name": "Unamed facility operated by Southwest Key Program, Inc.",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "2613 W. Campbell Avenue",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85017",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.528038,
-          29.321434
+          -112.1150306,
+          33.5017004
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "BCFS Fairfield",
+        "name": "Southwest Key Program, Inc. Casa Lighthouse",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "2932 N. 14th Street",
+        "city": "Phoenix",
+        "state": "Arizona",
+        "zip": "85014",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.0517822,
+          33.4815489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Estrella del Norte ",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "1601 N. Oracle Road",
+        "city": "Tucson",
+        "state": "Arizona",
+        "zip": "85705 -644",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.9794904,
+          32.2413144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "VisionQuest National",
+        "description": "",
+        "agency": "VisionQuest National",
+        "address": "600 N. Swan Road",
+        "city": "Tucson",
+        "state": "Arizona",
+        "zip": "85711",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -110.892207,
+          32.2291054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Hacienda Del Sol",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "12030 N. 113th Avenue",
+        "city": "Youngtown",
+        "state": "Arizona",
+        "zip": "85363 -124",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.3037399,
+          33.5947387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa San Diego",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "1160 Broadway",
+        "city": "El Cajon",
+        "state": "Calfornia",
+        "zip": "92021",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9416164,
+          32.8082769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Lemon Grove",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "2205 El Prado Avenue",
+        "city": "Lemon Grove",
+        "state": "Calfornia",
+        "zip": "94145",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0371583,
+          32.7287657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unnamed facility operated by Southwest Key Program, Inc.",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "9780 Dunbar Lane",
+        "city": "El Cajon",
+        "state": "California",
+        "zip": "92021",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.8232506,
+          32.8623883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BCFS Health and Human Services Fairfield",
+        "description": "",
+        "agency": "BCFS",
+        "address": "2301 Pennsylvania Avenue",
         "city": "Fairfield",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "California",
+        "zip": "94533",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.123724,
-          38.230783
+          -122.0502293,
+          38.271397
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "BCFS Fairfield",
+        "name": "Crittenton Foster Care and Adoption Agency",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fairfield",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.123724,
-          38.230783
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCFS International Children's Shelter",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Harlingen",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.7,
-          26.2
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCFS HHS International Children's Services Emergency Shelter",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Raymondville",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.783056,
-          26.481389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCFS San Antonio",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.568963,
-          29.488798
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCFS San Antonio",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.490735,
-          29.424991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCFS San Antonio",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.490735,
-          29.424991
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCFS HHS International Children's Services Emergency Shelter",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.5,
-          29.416667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bethany Christian Services",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Grand Rapids",
-        "state": "MI",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -85.650753,
-          42.979841
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Board of Child Care",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Baltimore",
-        "state": "MD",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.76303352,
-          39.34711547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Board of Child Care",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Baltimore",
-        "state": "MD",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -76.76303352,
-          39.34711547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bokenkamp (Lutheran Social Services)",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Corpus Christi",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.401944,
-          27.742778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Bokenkamp (Lutheran Social Services)",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Corpus Christi",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.349552,
-          27.717393
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Catholic Charities Boystown",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Miami",
-        "state": "FL",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.224662,
-          25.791614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Catholic Family Center",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Rochester",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.607511,
-          43.158828
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cayuga Centers",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "New York",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9323328,
-          40.8140078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Cayuga Centers",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "New York",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9323328,
-          40.8140078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Catholic Charities Fort Worth",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fort Worth",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.327808,
-          32.754893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Catholic Charities Fort Worth",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fort Worth",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.327808,
-          32.754893
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Catholic Charities Houston",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.373981,
-          29.759979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Catholic Charities Houston",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.373981,
-          29.759979
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "CCS Tacoma",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Tacoma ",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.440347,
-          47.253196
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Center for Family Services",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Camden",
-        "state": "NJ",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -75.1177912,
-          39.9407156
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Childrens Home of Kingston",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Kingston",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.970812,
-          41.923996
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Children's Village",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Dobb's Ferry",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9708,
-          40.68295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Crittenton",
-        "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Crittenton Services for Children and Families ",
+        "address": "801 E. Chapman Avenue",
         "city": "Fullerton",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "California",
+        "zip": "92831",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.911048,
-          33.874592
+          -117.9110319,
+          33.8745654
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Crittenton",
+        "name": "David & Margaret Youth and Family Services",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fullerton",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.911048,
-          33.874592
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "David and Margaret",
-        "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "David & Margaret Youth and Family Services",
+        "address": "1350 3rd Street",
         "city": "La Verne",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "California",
+        "zip": "91750",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.785181,
-          34.103327
+          -117.7854785,
+          34.1024159
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "David and Margaret",
+        "name": "Nuevo Amanecer Latino Children's Services",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "La Verne",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Nuevo Amanecer Latino Children's Services",
+        "address": "5400 Pomona Boulevard",
+        "city": "Los Angeles ",
+        "state": "California",
+        "zip": "90022",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.785181,
-          34.103327
+          -118.1495229,
+          34.0331756
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Friends of Youth",
+        "name": "Southwest Key Program, Inc. Pleasant Hill",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Kirkland ",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Southwest Key",
+        "address": "808 Grayson Road",
+        "city": "Pleasant Hill",
+        "state": "California",
+        "zip": "94523",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164651,
-          47.719085
+          -122.0892924,
+          37.9473076
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Friends of Youth",
+        "name": "Yolo County Juvenile Detention Facility",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Kirkland ",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Yolo County",
+        "address": "2880 East Gibson Road",
+        "city": "Woodland",
+        "state": "California",
+        "zip": "95776",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164651,
-          47.719085
+          -121.729743,
+          38.660341
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Friends of Youth",
+        "name": "International Christian Adoptions",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Kirkland ",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "International Christian Adoptions",
+        "address": "6248 Birdcage Street",
+        "city": "Citrus Heights",
+        "state": "California ",
+        "zip": "95610",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.164651,
-          47.719085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Friends of Youth",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Kirkland ",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.164651,
-          47.719085
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Heartland Beverly",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.674294,
-          41.71703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Heartland International Childrens Center",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Chicago",
-        "state": "IL",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.632449,
-          41.879193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "His House",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Miami",
-        "state": "FL",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.224662,
-          25.791614
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Holy Family Institute",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Pittsburgh",
-        "state": "PA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.099595,
-          40.510318
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Holy Family Institute",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Pittsburgh",
-        "state": "PA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -80.099595,
-          40.510318
+          -121.2757354,
+          38.6798131
         ]
       }
     },
@@ -3460,328 +3088,987 @@
       "properties": {
         "name": "Homestead Temporary Shelter for Unaccompanied Children",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Comprehensive Health Services",
+        "address": "960 Bougainville Boulevard",
         "city": "Homestead",
-        "state": "FL",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Florida",
+        "zip": "33039",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -80.443032,
-          25.460881
+          -80.3922002,
+          25.4998751
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Pleasantville Cottage School",
+        "name": "His House Children's Home",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Pleasantville",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "His House Children's Home",
+        "address": "20000 N.W. 47th Avenue",
+        "city": "Miami Gardens",
+        "state": "Florida",
+        "zip": "33055",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.777622,
-          41.128892
+          -80.2796092,
+          25.9559243
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Leake and Watts",
+        "name": "The Villages, Inc.",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Yonkers",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "The Villages, Inc.",
+        "address": "7240 S.W. 10th Avenue",
+        "city": "Topeka",
+        "state": "Kansas",
+        "zip": "66615",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.902569,
-          40.924291
+          -95.7907712,
+          39.0526015
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Leake and Watts",
+        "name": "Board of Child Care of the United Methodist Church, Caminos Program",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Yonkers",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Board of Child Care of the United Methodist Church",
+        "address": "3300 Gaither Road",
+        "city": "Baltimore",
+        "state": "Maryland",
+        "zip": "21244",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.902569,
-          40.924291
+          -76.760904,
+          39.3467569
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Leake and Watts",
+        "name": "Bethany Christian Services Maryland",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Yonkers",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Bethany Christian Services ",
+        "address": "2142 Priest Bridge Court",
+        "city": "Crofton",
+        "state": "Maryland",
+        "zip": "21114",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.902569,
-          40.924291
+          -76.692664,
+          38.988263
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lincoln Hall Boys Haven",
+        "name": "Ascentria Care Alliance",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Lutheran Immigration and Refugee Service",
+        "address": "11 Shattuck Street",
+        "city": "Worcester",
+        "state": "Massachusetts ",
+        "zip": "1605",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.7892465,
+          42.2866807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bethany Christian Services\n",
+        "description": "",
+        "agency": "Bethany Christian Services\n",
+        "address": "901 Eastern Ave NE.\n ",
+        "city": "Grand Rapids",
+        "state": "Michigan",
+        "zip": "49503",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6509552,
+          42.979561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rising Ground ",
+        "description": "",
+        "agency": "Leake & Watts",
+        "address": "1623 Glover Street",
+        "city": "Bronx",
+        "state": "New York",
+        "zip": "10462",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.852267,
+          40.838274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Children's Village",
+        "description": "",
+        "agency": "Children's Village Inc",
+        "address": "1 Echo Hills Road",
+        "city": "Dobbs Ferry",
+        "state": "New York",
+        "zip": "10522",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8639177,
+          41.0023488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cayuga Home for Children",
+        "description": "",
+        "agency": "Cayuga Centers",
+        "address": "\n1767 Park Avenue",
+        "city": "Harlem",
+        "state": "New York",
+        "zip": "10035",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9398856,
+          40.8032419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Abbott House ",
+        "description": "",
+        "agency": "Abbott House",
+        "address": "100 N. Broadway",
+        "city": "Irvington",
+        "state": "New York",
+        "zip": "10533",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8578093,
+          41.0432022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Children's Home of Kingston ",
+        "description": "",
+        "agency": "Children's Home of Kingston ",
+        "address": "26 Grove Street",
+        "city": "Kingston",
+        "state": "New York",
+        "zip": "12401",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9712771,
+          41.923718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lincoln Hall Boys' Haven",
+        "description": "",
+        "agency": "Catholic Charities, Archdiocese of New York",
+        "address": "145 Route 202",
         "city": "Lincolndale",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "New York",
+        "zip": "10540",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.728841,
-          41.342495
+          -73.6850876,
+          41.3289488
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lutheran Services Carolinas",
+        "name": "Lutheran Social Services of Metropolitan New York Safe Haven Program in NYC",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Columbia",
-        "state": "SC",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Lutheran Social Services of Metropolitan New York ",
+        "address": "475 Riverside Drive",
+        "city": "New York",
+        "state": "New York",
+        "zip": "10115",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -81.0348,
-          34.0007
+          -73.9640282,
+          40.8108449
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Lutheran Social Services of the South (New Hope)",
+        "name": "Hayden House Emergency Residence and School",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Cardinal McCloskey Community Services",
+        "address": "155 N. Highland Avenue",
+        "city": "Ossining",
+        "state": "New York",
+        "zip": "10562",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8639135,
+          41.1686077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mercy First ",
+        "description": "",
+        "agency": "MercyFirst",
+        "address": "525 Convent Road",
+        "city": "Syosset",
+        "state": "New York",
+        "zip": "11791",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.4883134,
+          40.8213673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rising Ground ",
+        "description": "",
+        "agency": "Leake & Watts",
+        "address": "463 Hawthorne Avenue",
+        "city": "Yonkers",
+        "state": "New York",
+        "zip": "10705",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9069508,
+          40.9166934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Jewish Child Care Association",
+        "description": "",
+        "agency": "Jewish Childcare Association of New York",
+        "address": "555 Bergen Avenue",
+        "city": "Bronx",
+        "state": "New York ",
+        "zip": "10455",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9166425,
+          40.8159255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morrison Child and Family Services",
+        "description": "",
+        "agency": "Morrison Child & Family Services",
+        "address": "1111 SW 10th Avenue",
+        "city": "Portland",
+        "state": "Oregon",
+        "zip": "97205",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.6840027,
+          45.5169738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Morrison Child & Family Services ",
+        "description": "",
+        "agency": "Morrison Child & Family Services",
+        "address": "9911 SE. Mt Scott Boulevard",
+        "city": "Portland",
+        "state": "Oregon",
+        "zip": "97266",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.5607153,
+          45.4668931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Holy Family Institute",
+        "description": "",
+        "agency": "Holy Family Institute",
+        "address": "8235 Ohio River Boulevard",
+        "city": "Pittsburgh",
+        "state": "Pennsylvania ",
+        "zip": "15202",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0995793,
+          40.5102858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BCFS Health and Human Services International Children's Services Emergency Shelter ",
+        "description": "",
+        "agency": "BCFS",
+        "address": "301 Ilfrey Avenue",
+        "city": "Baytown ",
+        "state": "Texas",
+        "zip": "77520",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0565611,
+          29.783809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa El Presidente",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "1 Ted Hunt Boulevard",
+        "city": "Brownsville",
+        "state": "Texas",
+        "zip": "78521",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4500519,
+          25.9444467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Nueva Esperanza ",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "321 Lorenaly Drive",
+        "city": "Brownsville",
+        "state": "Texas",
+        "zip": "78526",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5112722,
+          25.9736076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. La Esperanza",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "504 E. Washington Street ",
+        "city": "Brownsville",
+        "state": "Texas",
+        "zip": "78520",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5024325,
+          25.9060625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Padre",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "7480 Padre Island Highway",
+        "city": "Brownsville",
+        "state": "Texas",
+        "zip": "78521",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4241089,
+          25.9425644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Canutillo",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "400 Talbot Avenue",
+        "city": "Canutillo",
+        "state": "Texas",
+        "zip": "79835",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5950979,
+          31.907735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Montezuma",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "15101 Interstate 10 E. ",
+        "city": "Channelview",
+        "state": "Texas",
+        "zip": "77530",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1171944,
+          29.780621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casita Del Valle",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "1855 Lee Moor Road",
+        "city": "Clint",
+        "state": "Texas",
+        "zip": "79836",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2304252,
+          31.5319475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Conroe",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "10393 League Line Road",
+        "city": "Conroe",
+        "state": "Texas",
+        "zip": "77304",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5120197,
+          30.3712018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upbring Bokenkamp Children's Center",
+        "description": "",
+        "agency": "Upbring",
+        "address": "5517 S. Alameda Street",
+        "city": "Corpus Christi",
+        "state": "Texas",
+        "zip": "78412",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3495638,
+          27.7175024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Franklin",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "315 E. Franklin Avenue",
+        "city": "El Paso",
+        "state": "Texas",
+        "zip": "79901",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4878453,
+          31.7620542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tornillo Tent City",
+        "description": "",
+        "agency": "BCFS",
+        "address": "18051 Island Guadalupe Road",
+        "city": "Fabens",
+        "state": "Texas",
+        "zip": "79838",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1488961,
+          31.4415998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Catholic Charities Fort Worth",
+        "description": "",
+        "agency": "Catholic Charities",
+        "address": "249 W. Thornhill Drive",
+        "city": "Fort Worth",
+        "state": "Texas",
+        "zip": "76115",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3274375,
+          32.682583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Combes",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "23011 Rio Rancho Road",
+        "city": "Harlingen",
+        "state": "Texas",
+        "zip": "78552",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7293219,
+          26.2390524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BCFS International Children's Shelter ",
+        "description": "",
+        "agency": "BCFS",
+        "address": "3700 E. Harrison Avenue",
+        "city": "Harlingen",
+        "state": "Texas",
+        "zip": "78550",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.65349,
+          26.1906428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St. Michael's Home for Children",
+        "description": "",
+        "agency": "Catholic Charities of the Diocese of Galveston-Houston",
+        "address": "2815 Smith Street",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77006",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3787215,
+          29.7456541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Houston",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "1550 La Concha Lane",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77054",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4067995,
+          29.6908955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Quetzal",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "7407 N. Freeway",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77076",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5157425,
+          29.8550921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Unnamed facility operated by Southwest Key Program, Inc.",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "7900 Mesa Drive",
+        "city": "Houston",
+        "state": "Texas",
+        "zip": "77028",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2611797,
+          29.8345864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shiloh Treatment Center ",
+        "description": "",
+        "agency": "Shiloh Treatment Center",
+        "address": "3926 Bahler Avenue",
+        "city": "Manvel",
+        "state": "Texas",
+        "zip": "77578",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3525219,
+          29.518488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Upbring New Hope Children's Center",
+        "description": "",
+        "agency": "Upbring",
+        "address": "1000 N. McColl Road",
         "city": "McAllen",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Texas",
+        "zip": "78501",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.236389,
-          26.216389
+          -98.2104901,
+          26.2099647
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "MercyFirst",
+        "name": "BCFS Health and Human Services International Children's Services Emergency Shelter",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Syosett",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "BCFS",
+        "address": "12985 FM 490",
+        "city": "Raymondville",
+        "state": "Texas",
+        "zip": "78580",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -73.9708,
-          40.68295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "MercyFirst",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Syosett",
-        "state": "NY",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -73.9708,
-          40.68295
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morrison Downtown",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Portland",
-        "state": "OR",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.657643,
-          45.511136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Morrison ",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Portland",
-        "state": "OR",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.657643,
-          45.511136
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Noank",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Ledyard - Mystic - Groton",
-        "state": "CT",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -72.020066,
-          41.384083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Northern Virginia Juvenile Detention Center",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Alexandria",
-        "state": "VA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.136042,
-          38.812238
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Selma Carson Home",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fife",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.355402,
-          47.25069
+          -97.7982136,
+          26.4511531
         ]
       }
     },
@@ -3790,80 +4077,130 @@
       "properties": {
         "name": "Seton Home",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Catholic Charities Archbid of San Antonio ",
+        "address": "1115 Mission Road ",
         "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Texas",
+        "zip": "78210",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5,
-          29.416667
+          -98.4910637,
+          29.3878763
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Shenandoah Valley Juvenile Center",
+        "name": "Southwest Key Program, Inc. Casa Blanca",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Staunton",
-        "state": "VA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "27102 Enchanted Eve",
+        "city": "San Antonio",
+        "state": "Texas",
+        "zip": "78260",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -79.022891,
-          38.183158
+          -98.4959014,
+          29.7049578
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Shiloh Treatment Center",
+        "name": "Unnamed facility operated by BCFS Health and Human Services ",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Manvel",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "BCFS",
+        "address": "7404 W. U.S. Highway 90",
+        "city": "San Antonio",
+        "state": "Texas",
+        "zip": "78227",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.356389,
-          29.479167
+          -98.6342111,
+          29.3991128
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Southwest Key Antigua",
+        "name": "St Peter - St Joseph Childrens Home Emergency Shelter",
         "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "St Peter - St Joseph Childrens Home",
+        "address": "919 Mission Road",
+        "city": "San Antonio",
+        "state": "Texas",
+        "zip": "78210",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4925455,
+          29.3882489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "BCFS Health and Human Services International Children's Services Emergency Shelter",
+        "description": "",
+        "agency": "BCFS",
+        "address": "1339 West Chavaneaux Road",
+        "city": "San Antonio ",
+        "state": "Texas",
+        "zip": "78224",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
+        "marker-size": "medium",
+        "marker-symbol": "c"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5280326,
+          29.3214008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southwest Key Program, Inc. Casa Antigua",
+        "description": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "502 E. Expressway 77 83 ",
         "city": "San Benito",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Texas",
+        "zip": "78586",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
@@ -3876,902 +4213,138 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Southwest Key Canutillo",
+        "name": "Southwest Key Program, Inc. Casa Rio Grande ",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Canutillo",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.5951,
-          31.907735
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Blanca",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.495901,
-          29.7049578
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Franklin",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "El Paso",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.48785,
-          31.7620542
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Houston",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.4068,
-          29.6908955
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Montezuma",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Channelview",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.117194,
-          29.780621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Padre",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Brownsville",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.424109,
-          25.9425644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Phoenix",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Phoenix",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.070892,
-          33.60503
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa Quetzal",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.401626,
-          29.8581563
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casita Del Valle",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Elizario",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.23043,
-          31.5319475
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Combes",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Harlingen",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.729322,
-          26.2390524
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Conroe",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Conroe",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.51202,
-          30.3712018
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key El Presidente",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Brownsville",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.450052,
-          25.9444467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Glendale",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Glendale",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.185256,
-          33.540229
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Mesa",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Mesa",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -111.765222,
-          33.422793
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Nueva Esperanza",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Brownsville",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.511272,
-          25.9736076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Pleasant Hill",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Pleasant Hill",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.0914811,
-          37.9473076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Rio Grande",
-        "description": "",
-        "agency": "Private",
-        "address": "",
+        "agency": "Southwest Key Program, Inc.",
+        "address": "401 E. Business Highway 77 ",
         "city": "San Benito",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "state": "Texas",
+        "zip": "78586",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -97.611388,
-          26.1247229
+          -97.633772,
+          26.1234561
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Southwest Key San Diego",
+        "name": "Northern Virginia Juvenile Detention Center ",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Diego",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "General Dynamics",
+        "address": "200 S. Whiting Street",
+        "city": "Alexandria",
+        "state": "Virginia ",
+        "zip": "22304",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -117.15529,
-          32.72793
+          -77.135425,
+          38.812185
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "St. Peter St. Joseph Children's Home",
+        "name": "Youth for Tomorrow",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Youth For Tomorrow Foundation",
+        "address": "11835 Hazel Circle Drive",
+        "city": "Bristow",
+        "state": "Virginia ",
+        "zip": "20136",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -98.5,
-          29.416667
+          -77.5477586,
+          38.7417097
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "The Villages",
+        "name": "Commonwealth Catholic Charities",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Topeka",
-        "state": "KS",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Commonwealth Catholic Charities",
+        "address": "1601 Rolling Hills Drive",
+        "city": "Richmond",
+        "state": "Virginia ",
+        "zip": "23229",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -95.689444,
-          39.055833
+          -77.545436,
+          37.6031199
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Yolo County Juvenile Detention",
+        "name": "Shenandoah Valley Juvenile Center",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Woodland",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "General Dynamics",
+        "address": "300 Technology Drive",
+        "city": "Staunton",
+        "state": "Virginia ",
+        "zip": "24401",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -121.731314,
-          38.659802
+          -79.0130292,
+          38.190781
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Youth For Tomorrow",
+        "name": "Selma Carson Home",
         "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Bristow ",
-        "state": "VA",
-        "zip": "",
-        "marker-color": "#E37B40",
+        "agency": "Pioneer Human Services ",
+        "address": "619 54th Avenue E",
+        "city": "Tacoma",
+        "state": "Washington",
+        "zip": "98424",
+        "source": "propublica",
+        "marker-color": "#DE5B49",
         "marker-size": "medium",
-        "marker-symbol": "p"
+        "marker-symbol": "c"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -77.547644,
-          38.741847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Youth for Tomorrow LTFC",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Bristow ",
-        "state": "VA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -77.547644,
-          38.741847
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Youthcare",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Seattle",
-        "state": "WA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.299856,
-          47.668212
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "San Francisco Unaccompanied Children's Shelter",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Des Plaines",
-        "state": "IL",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.891609,
-          42.065357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Casa Esperanza Unaccompanied Children's Shelter",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Bartlett",
-        "state": "IL",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -88.203305,
-          41.989447
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Galveston Multicultural Institute",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Galveston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -94.825833,
-          29.281111
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Houston",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.26118,
-          29.8345864
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Brazoria County Youth Homes",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Oyster Creek",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.325,
-          28.998611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "St. Michaels Home for Children",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.383056,
-          29.762778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "St. Michaels Home for Children II",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Houston",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -95.383056,
-          29.762778
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Assessment Center of Tarrant County",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fort Worth",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.333333,
-          32.75
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key La Esperanza",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Brownsville",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -97.502433,
-          25.9060625
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Baptist Child and Home Ministries",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.5,
-          29.416667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "BCHM Region Children's Assessment Center",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "San Antonio",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -98.5,
-          29.416667
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Tornillo detention facility",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Fabens",
-        "state": "TX",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -106.105442,
-          31.435464
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Tucson",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Tucson",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -110.828987,
-          32.19709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Youngtown",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Youngtown",
-        "state": "AZ",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -112.303653,
-          33.589868
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Casa San Diego",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "El Cajon",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.941614,
-          32.808266
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key El Cajon",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "El Cajon",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -116.966042,
-          32.793513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "name": "Southwest Key Lemon Grove",
-        "description": "",
-        "agency": "Private",
-        "address": "",
-        "city": "Lemon Grove",
-        "state": "CA",
-        "zip": "",
-        "marker-color": "#E37B40",
-        "marker-size": "medium",
-        "marker-symbol": "p"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -117.031667,
-          32.741389
+          -122.4229628,
+          47.2083689
         ]
       }
     }
