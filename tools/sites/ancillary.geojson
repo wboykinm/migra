@@ -1,0 +1,74 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Papaop Well",
+        "description": "",
+        "agency": "CPB",
+        "address": "",
+        "city": "Wellton",
+        "state": "AZ",
+        "zip": "",
+        "source": "ancillary",
+        "marker-color": "#F0CA4D",
+        "marker-size": "medium",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.61517667770386,
+          32.555675753684476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Grip",
+        "description": "",
+        "agency": "CPB",
+        "address": "El Camino del Diablo",
+        "city": "",
+        "state": "AZ",
+        "zip": "",
+        "source": "ancillary",
+        "marker-color": "#F0CA4D",
+        "marker-size": "medium",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.342707157135,
+          32.09807231887793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Anomaly",
+        "description": "",
+        "agency": "CPB",
+        "address": "",
+        "city": "",
+        "state": "AZ",
+        "zip": "",
+        "source": "ancillary",
+        "marker-color": "#F0CA4D",
+        "marker-size": "medium",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.42843055725098,
+          32.27637048308562
+        ]
+      }
+    }
+  ]
+}
