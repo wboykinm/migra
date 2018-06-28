@@ -21,7 +21,8 @@ for (let i = 0; i < sites.length; i++) {
       city: sites[i].properties.city || '',
       state: sites[i].properties.state || '',
       zip: sites[i].properties.zip || '',
-      'marker-color': '#324D5C', 
+      source: 'ice',
+      'marker-color': '#E37B40', 
       'marker-size': 'medium', 
       'marker-symbol': 'i'
     }, 
