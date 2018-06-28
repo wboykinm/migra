@@ -20,7 +20,7 @@ rm -rf private.json private.geojson
 wget https://gist.githubusercontent.com/wboykinm/aa5b75963ba0c065a079f81e734ebccd/raw/2407de045603ac7fce0546ac3b02f2497f782d9e/migrant_child_facilities.json -O private.json
 
 # TODO: Geocode sites
-node private/index.js private.json > private.geojson
+# node private/index.js private.json > private.geojson
 
 #########################################################################
 # Everything from "torn apart":
