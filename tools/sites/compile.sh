@@ -50,9 +50,9 @@ rm -rf ice.json ice.geojson cbp.json cbp.geojson private.json private.geojson pp
 # BUILD AOIS FOR CALIFORNIA
 
 # Get state polygons from geojson.xyz
-rm -rf states.geojson migra_aois.geojson
-wget -c https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_110m_admin_1_states_provinces_shp.geojson -O states.geojson
+rm -rf data/states.geojson migra_aois.geojson
+wget -c https://d2ad6b4ur7yvpq.cloudfront.net/naturalearth-3.3.0/ne_110m_admin_1_states_provinces_shp.geojson -O data/states.geojson
 
 # example: get AOIs for sites around CA:
-node aois.js migra_sites.geojson 'California' 100 > migra_aois.geojson
+node aois.js migra_sites.geojson 'California' 2 > migra_aois.geojson
 

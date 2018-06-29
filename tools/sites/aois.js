@@ -5,9 +5,9 @@ let fs = require('fs')
 let turf = require('@turf/turf')
 
 let siteList = fs.readFileSync(process.argv[2])
-let stateList = fs.readFileSync('states.geojson')
+let stateList = fs.readFileSync('data/states.geojson')
 let stateName = process.argv[3] || 'California'
-let buffDist = process.argv[4] || 0
+let buffDist = process.argv[4] || 1
 
 let sites = (JSON.parse(siteList)).features
 let states = (JSON.parse(stateList)).features
@@ -17,11 +17,11 @@ let statePoly = states.filter(function(state) {
   return state.properties.name === stateName
 })
 
-var buffered = turf.buffer(statePoly[0], buffDist, {units: 'miles'});
+var buffered = turf.buffer(statePoly[0], 100, {units: 'miles'});
 
 for (let i = 0; i < sites.length; i++) {
   if (turf.booleanContains(buffered,sites[i])) {
-    let radius = turf.buffer(sites[i], 1, {units: 'miles'})
+    let radius = turf.buffer(sites[i], buffDist, {units: 'miles'})
     let bbox = turf.bbox(radius);
     let bboxPoly = turf.bboxPolygon(bbox)
     bboxPoly.properties = sites[i].properties

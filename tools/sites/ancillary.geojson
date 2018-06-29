@@ -69,6 +69,52 @@
           32.27637048308562
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naval Base Ventura County South",
+        "description": "",
+        "agency": "DOD",
+        "address": "311 Main Rd #355",
+        "city": "NAS Point Mugu",
+        "state": "CA",
+        "zip": "93042",
+        "source": "ancillary",
+        "marker-color": "#F0CA4D",
+        "marker-size": "medium",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1071605682373,
+          34.11230199561746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Naval Base Ventura County North",
+        "description": "",
+        "agency": "DOD",
+        "address": "Stethem Rd",
+        "city": "Port Hueneme",
+        "state": "CA",
+        "zip": "93043",
+        "source": "ancillary",
+        "marker-color": "#F0CA4D",
+        "marker-size": "medium",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2092990875244,
+          34.15528397373199
+        ]
+      }
     }
   ]
 }
