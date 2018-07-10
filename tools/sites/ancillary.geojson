@@ -6,7 +6,7 @@
       "properties": {
         "name": "Papaop Well",
         "description": "",
-        "agency": "CPB",
+        "agency": "CBP",
         "address": "",
         "city": "Wellton",
         "state": "AZ",
@@ -52,7 +52,7 @@
       "properties": {
         "name": "Anomaly",
         "description": "",
-        "agency": "CPB",
+        "agency": "CBP",
         "address": "",
         "city": "",
         "state": "AZ",
@@ -113,6 +113,29 @@
         "coordinates": [
           -119.2092990875244,
           34.15528397373199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "PCT Test 1",
+        "description": "",
+        "agency": "CBP",
+        "address": "",
+        "city": "Mojave",
+        "state": "CA",
+        "zip": "",
+        "source": "ancillary",
+        "marker-color": "#F0CA4D",
+        "marker-size": "medium",
+        "marker-symbol": "a"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.269635,
+          35.134665
         ]
       }
     }
